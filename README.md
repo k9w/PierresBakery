@@ -6,9 +6,9 @@
 
 ## Technologies Used
 
-*_Markdown_
-*_C#_
-*_.NET_
+* _Markdown_
+* _C#_
+* _.NET_
 
 ## Description
 
